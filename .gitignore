@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Data folder ignored
+/data/Bistro/
+
+# Build folder ignored
+/build/

@@ -1,0 +1,18 @@
+{
+    "name": "graphics-cookbook",
+    "version-string": "0.1",
+    "dependencies": [
+        "sdl2",
+        "sdl2-mixer",
+        "assimp",
+        "rapidjson",
+        "bullet3",
+        "glm",
+        "imguizmo",
+        {
+            "name": "imgui",
+            "features": [ "docking-experimental" ]
+        },
+		"spdlog"
+	]
+}
